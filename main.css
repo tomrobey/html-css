@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 section:nth-child(even) {
     background-color: aquamarine;
+=======
+section:nth-child(even) {
+    background-color: aquamarine;
+>>>>>>> 0c704a2c75a5b1a72245f1319a7436dbed9dd902
 }
